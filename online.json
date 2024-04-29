@@ -11,5 +11,15 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+     {
+      "name": "JSON",
+      "type": 1,
+      "url": "https://raw.githubusercontent.com/xuedingedemao215/iptv/main/online.json"
+    },
+    {
+      "name": "Proxy",
+      "type": 2,
+      "url": "proxy://do=live&type=today"
+    }
   ]
 }
