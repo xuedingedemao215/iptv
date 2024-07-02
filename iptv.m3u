@@ -201,6 +201,11 @@ http://170.254.18.106/HISTORY/index.m3u8
 #广播频道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="广播频道" radio="true",UFM 1003
 https://22243.live.streamtheworld.com/UFM_1003AAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经典1042.png" group-title="广播频道" radio="true",经典104.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥文艺广播.PNG" group-title="广播频道" radio="true",经典104.2
 https://live.ximalaya.com/radio-first-page-app/live/153/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽交通广播.PNG" group-title="广播频道" radio="true",安徽交通广播
+https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中国之声.PNG" group-title="广播频道" radio="true",中国之声
+https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+
 
