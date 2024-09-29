@@ -124,8 +124,6 @@ http://120.210.193.151:8006/120000001002/XMTjlwshd/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 
 #地方频道
-#EXTINF:-1 tvg-id="蚌埠公共" tvg-name="蚌埠公共" group-title="地方频道",蚌埠公共
-http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000077
 #EXTINF:-1 tvg-id="蚌埠新闻" tvg-name="蚌埠新闻" group-title="地方频道",蚌埠新闻
 http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方频道",东方影视
@@ -218,12 +216,6 @@ http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #国际频道
 #EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" group-title="国际频道",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" group-title="国际频道",BBC News
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="国际频道",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="CNN Fast" tvg-name="CNN Fast" group-title="国际频道",CNN Fast
-https://i.mjh.nz/discovery-ptcn.m3u8
 
 #广播频道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="广播频道" radio="true",UFM 1003
