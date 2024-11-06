@@ -207,22 +207,6 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 
-#平台直播
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•1「解说」
-http://live.iill.top/huya.php?id=21277391
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•2「解说」
-http://live.iill.top/huya.php?id=25018873
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•1「解说」
-http://live.iill.top/huya.php?id=20289754
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•2「解说」
-http://live.iill.top/huya.php?id=24983280
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•3「解说」
-http://live.iill.top/huya.php?id=24396428
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",美剧「解说」
-http://live.iill.top/huya.php?id=20488841
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",荒野求生「其他」
-http://live.iill.top/huya.php?id=593667
-
 #国际频道
 #EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" group-title="国际频道",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
