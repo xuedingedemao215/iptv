@@ -197,16 +197,6 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 
-#直播
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/15152155&huya&logo" group-title="虎牙",科幻梦工场
-https://live.iill.top/huya/15152155
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/13303478&huya&logo" group-title="虎牙",阿斗归来了
-https://live.iill.top/huya/13303478
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/4549169&douyu&logo" group-title="斗鱼",橙記最人气港剧间
-https://live.iill.top/douyu/4549169
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2758565&douyu&logo" group-title="斗鱼",牛叔说电影
-https://live.iill.top/douyu/2758565
-
 #国际频道
 #EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" group-title="国际频道",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
