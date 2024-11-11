@@ -216,6 +216,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #广播频道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="广播频道" radio="true",UFM 1003
 https://22243.live.streamtheworld.com/UFM_1003AAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/蚌埠交通广播.png" group-title="广播频道" radio="true",蚌埠交通广播
+https://live.ximalaya.com/radio-first-page-app/live/153/64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽交通广播.png" group-title="广播频道" radio="true",安徽交通广播
 https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr中华之声.png" group-title="广播频道" radio="true",中国之声
