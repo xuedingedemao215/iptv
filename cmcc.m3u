@@ -1,5 +1,34 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#测试频道
+#EXTINF:-1 tvg-id="4K影院" tvg-name="4K影院"  group-title="测试频道",4K影院 
+http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K"  group-title="测试频道",华数4K
+http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  group-title="测试频道",纯享4K
+http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
+#EXTINF:-1 tvg-id="动作电影 " tvg-name="动作电影"  group-title="测试频道",动作电影
+http://39.134.136.161:6610/000000001000/1000000004000018653/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000018653
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片"  group-title="测试频道",明星大片
+http://39.134.136.161:6610/000000001000/2000000003000000016/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000016
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧"  group-title="测试频道",精品大剧
+http://39.134.136.161:6610/000000001000/7882297361445410858/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7882297361445410858
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视"  group-title="测试频道",精彩影视
+http://39.134.136.161:6610/000000001000/6000000006000320630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000320630
+#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻"  group-title="测试频道",爱科幻
+http://39.134.136.161:6610/000000001000/6000000006000020630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000020630
+#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线"  group-title="测试频道",爱院线
+http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000030630
+#EXTINF:-1 tvg-id="Hot亚洲影院" tvg-name="Hot亚洲影院"  group-title="测试频道",Hot亚洲影院
+http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
+#EXTINF:-1 tvg-id="Hot欧美影院" tvg-name="Hot欧美影院"  group-title="测试频道",Hot欧美影院
+http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
+#EXTINF:-1 tvg-id="亚洲影院" tvg-name="亚洲影院"  group-title="测试频道",亚洲影院
+http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000006
+#EXTINF:-1 tvg-id="欧美影院" tvg-name="欧美影院"  group-title="测试频道",欧美影院
+http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000005
+#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线"  group-title="测试频道",爱院线.
+
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
