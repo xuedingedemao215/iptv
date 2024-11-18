@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #测试频道
-#EXTINF:-1 tvg-id="4K影院" tvg-name="4K影院"  group-title="测试频道",4K影院 
-http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K"  group-title="测试频道",华数4K
 http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  group-title="测试频道",纯享4K
@@ -23,11 +21,6 @@ http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
 #EXTINF:-1 tvg-id="Hot欧美影院" tvg-name="Hot欧美影院"  group-title="测试频道",Hot欧美影院
 http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
-#EXTINF:-1 tvg-id="亚洲影院" tvg-name="亚洲影院"  group-title="测试频道",亚洲影院
-http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000006
-#EXTINF:-1 tvg-id="欧美影院" tvg-name="欧美影院"  group-title="测试频道",欧美影院
-http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000005
-#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线"  group-title="测试频道",爱院线.
 
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
