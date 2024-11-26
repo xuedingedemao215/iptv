@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.iill.top/epg" 
 
 #测试频道
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K"  group-title="测试频道",华数4K
@@ -79,6 +79,17 @@ http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 美洲
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+
 
 #卫视频道
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -169,7 +180,7 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="蚌埠新闻" tvg-name="蚌埠新闻" group-title="地方频道",蚌埠新闻
 http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="地方频道",东方财经
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="地方频道",第一财经
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 
@@ -183,7 +194,12 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?
 #EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo3.png" group-title="数字频道",求索动物
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游频道
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="数字频道",四海钓鱼
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000640/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="数字频道",环球旅游
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000643/index.m3u8?IASHttpSessionId=
+
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
