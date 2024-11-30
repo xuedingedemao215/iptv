@@ -1,27 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg" 
 
-#测试频道
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K"  group-title="测试频道",华数4K
-http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  group-title="测试频道",纯享4K
-http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-#EXTINF:-1 tvg-id="动作电影 " tvg-name="动作电影"  group-title="测试频道",动作电影
-http://39.134.136.161:6610/000000001000/1000000004000018653/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000018653
-#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片"  group-title="测试频道",明星大片
-http://39.134.136.161:6610/000000001000/2000000003000000016/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000016
-#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧"  group-title="测试频道",精品大剧
-http://39.134.136.161:6610/000000001000/7882297361445410858/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7882297361445410858
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视"  group-title="测试频道",精彩影视
-http://39.134.136.161:6610/000000001000/6000000006000320630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000320630
-#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻"  group-title="测试频道",爱科幻
-http://39.134.136.161:6610/000000001000/6000000006000020630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000020630
-#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线"  group-title="测试频道",爱院线
-http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000030630
-#EXTINF:-1 tvg-id="Hot亚洲影院" tvg-name="Hot亚洲影院"  group-title="测试频道",Hot亚洲影院
-http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
-#EXTINF:-1 tvg-id="Hot欧美影院" tvg-name="Hot欧美影院"  group-title="测试频道",Hot欧美影院
-http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
-
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
@@ -174,6 +152,34 @@ http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="CCTV央视高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视精品",央视高网
 http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 
+#电影频道
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K"  group-title="测试频道",华数4K
+http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  group-title="测试频道",纯享4K
+http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
+#EXTINF:-1 tvg-id="动作电影 " tvg-name="动作电影"  group-title="测试频道",动作电影
+http://39.134.136.161:6610/000000001000/1000000004000018653/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000018653
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片"  group-title="测试频道",明星大片
+http://39.134.136.161:6610/000000001000/2000000003000000016/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000016
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧"  group-title="测试频道",精品大剧
+http://39.134.136.161:6610/000000001000/7882297361445410858/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7882297361445410858
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视"  group-title="测试频道",精彩影视
+http://39.134.136.161:6610/000000001000/6000000006000320630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000320630
+#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻"  group-title="测试频道",爱科幻
+http://39.134.136.161:6610/000000001000/6000000006000020630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000020630
+#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线"  group-title="测试频道",爱院线
+http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000030630
+#EXTINF:-1 tvg-id="Hot亚洲影院" tvg-name="Hot亚洲影院"  group-title="测试频道",Hot亚洲影院
+http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
+#EXTINF:-1 tvg-id="Hot欧美影院" tvg-name="Hot欧美影院"  group-title="测试频道",Hot欧美影院
+http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+
 #地方频道
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国"  group-title="地方频道",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -195,10 +201,6 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游频道
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="数字频道",四海钓鱼
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000640/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="数字频道",环球旅游
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000643/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
@@ -210,14 +212,8 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="newtv军事评论" tvg-name="newtv军事评论" tvg-logo="https://live.fanmingming.com/tv/newtv军事评论.png" group-title="数字频道",newtv军事评论
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
-http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+
+#动画少儿
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
