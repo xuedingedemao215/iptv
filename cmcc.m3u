@@ -61,13 +61,6 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-
 
 #卫视频道
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -153,6 +146,18 @@ http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 
 #电影频道
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K"  group-title="测试频道",华数4K
 http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  group-title="测试频道",纯享4K
@@ -161,8 +166,6 @@ http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/1000000004000018653/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000018653
 #EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片"  group-title="测试频道",明星大片
 http://39.134.136.161:6610/000000001000/2000000003000000016/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000016
-#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧"  group-title="测试频道",精品大剧
-http://39.134.136.161:6610/000000001000/7882297361445410858/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7882297361445410858
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视"  group-title="测试频道",精彩影视
 http://39.134.136.161:6610/000000001000/6000000006000320630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000320630
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻"  group-title="测试频道",爱科幻
@@ -173,12 +176,6 @@ http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
 #EXTINF:-1 tvg-id="Hot欧美影院" tvg-name="Hot欧美影院"  group-title="测试频道",Hot欧美影院
 http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国"  group-title="地方频道",直播中国
