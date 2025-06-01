@@ -5,6 +5,7 @@
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+http://ahcmcc-livod.dispatcher.gitv.tv/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8?p=GITV&area=AH_CMCC
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv2/AHTSYSTBC2GQ.png" group-title="央视频道",CCTV-2
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
 http://120.210.193.151:8006/120000002003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
