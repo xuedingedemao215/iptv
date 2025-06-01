@@ -138,33 +138,27 @@ http://120.210.193.151:8006/120000001002/XMTbbsh/1.m3u8
 
 
 
-#数字频道
-#EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="数字频道",求索纪录
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo2.png" group-title="数字频道",求索科学
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo4.png" group-title="数字频道",求索生活
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo3.png" group-title="数字频道",求索动物
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游频道
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8
-#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/XBYXTB0705V1.png" group-title="数字频道",精品纪录
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/newtv军事评论.png" group-title="数字频道",军事评论
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1 tvg-id="自然纪实" tvg-name="自然纪实" tvg-logo="https://live.fanmingming.com/tv/自然纪实.png" group-title="数字频道",自然纪实
-http://120.210.193.151:8006/120000000058/GITV-AH-27/index.m3u8?
-#EXTINF:-1 tvg-id="旅行记录" tvg-name="旅行记录" tvg-logo="https://live.fanmingming.com/tv/旅行记录.png" group-title="数字频道",旅行记录
-http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8?
-#EXTINF:-1 tvg-id="舌尖美食" tvg-name="舌尖美食" tvg-logo="https://live.fanmingming.com/tv/舌尖美食.png" group-title="数字频道",舌尖美食
+#GITV
+#EXTINF:-1 tvg-id="GITV" tvg-name="GITV" group-title="GITV",GITV8
+http://120.210.193.151:8006/120000000058/GITV-AH-8/index.m3u8?
+#EXTINF:-1 tvg-id="GITV" tvg-name="GITV" group-title="GITV",GITV20
+http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8?
+#EXTINF:-1 tvg-id="GITV" tvg-name="GITV" group-title="GITV",GITV24
+http://120.210.193.151:8006/120000000058/GITV-AH-24/index.m3u8?
+#EXTINF:-1 tvg-id="GITV" tvg-name="GITV" group-title="GITV",GITV25
 http://120.210.193.151:8006/120000000058/GITV-AH-25/index.m3u8?
+#EXTINF:-1 tvg-id="GITV" tvg-name="GITV" group-title="GITV",GITV26
+http://120.210.193.151:8006/120000000058/GITV-AH-26/index.m3u8?
+#EXTINF:-1 tvg-id="GITV" tvg-name="GITV" group-title="GITV",GITV27
+http://120.210.193.151:8006/120000000058/GITV-AH-27/index.m3u8?
+#EXTINF:-1 tvg-id="GITV" tvg-name="GITV" group-title="GITV",GITV28
+http://120.210.193.151:8006/120000000058/GITV-AH-28/index.m3u8?
+#EXTINF:-1 tvg-id="GITV" tvg-name="GITV" group-title="GITV",GITV29
+http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8?
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/XBYXTB0705V1.png" group-title="GITV",精品纪录
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1 tvg-id="GITV" tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/newtv军事评论.png" group-title="GITV",军事评论
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
 
 #动画少儿
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="动画少儿",黑莓动画
