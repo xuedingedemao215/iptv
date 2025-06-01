@@ -110,10 +110,13 @@ http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 
 #电影频道
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTdzdy/DZDYYXTB.png" group-title="电影频道",CHC动作电影
+http://120.210.193.151:8006/120000001002/XMTdzdy/index.m3u8?
 http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTjtyy/JTYYYXTB.png" group-title="电影频道",CHC家庭影院
+http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8?
 http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
 #EXTINF:-1 tvg-name="影迷电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTgqdy/AHYMDYPD.png" group-title="电影频道",影迷电影
+http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8?
 http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-NEWTV06/XBYXTB0705V1.png" group-title="电影频道",NewTV超级电影
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
@@ -157,9 +160,11 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl
 #EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/newtv军事评论.png" group-title="数字频道",军事评论
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
 #EXTINF:-1 tvg-id="自然纪实" tvg-name="自然纪实" tvg-logo="https://live.fanmingming.com/tv/自然纪实.png" group-title="数字频道",自然纪实
-http://ahcmcc-livod.dispatcher.gitv.tv/gitv_live/GITV-AH-27/GITV-AH-27.m3u8?p=GITV&area=AH_CMCC
+http://120.210.193.151:8006/120000000058/GITV-AH-27/index.m3u8?
 #EXTINF:-1 tvg-id="旅行记录" tvg-name="旅行记录" tvg-logo="https://live.fanmingming.com/tv/旅行记录.png" group-title="数字频道",旅行记录
-http://ahcmcc-livod.dispatcher.gitv.tv/gitv_live/GITV-AH-29/GITV-AH-29.m3u8?p=GITV&area=AH_CMCC
+http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8?
+#EXTINF:-1 tvg-id="舌尖美食" tvg-name="舌尖美食" tvg-logo="https://live.fanmingming.com/tv/舌尖美食.png" group-title="数字频道",舌尖美食
+http://120.210.193.151:8006/120000000058/GITV-AH-25/index.m3u8?
 
 #动画少儿
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="动画少儿",黑莓动画
@@ -177,7 +182,7 @@ http://120.210.193.151:8006/120000000058/G_XUANDONG/index.m3u8?
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="动画少儿",动漫秀场
 http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="动画少儿",嘉佳卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/index.m3u8
 
 #国际频道
 #EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" group-title="国际频道",Al Jazeera
