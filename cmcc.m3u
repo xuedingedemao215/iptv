@@ -149,7 +149,7 @@ http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTjtyy/JTYYYXTB.png" group-title="电影频道",CHC家庭影院
 http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
-#EXTINF:-1 tvg-name="影迷电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTgqdy/AHYMDYPD.png" group-title="电影频道",影迷电影
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTgqdy/AHYMDYPD.png" group-title="电影频道",CHC影迷电影
 http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-NEWTV06/XBYXTB0705V1.png" group-title="电影频道",NewTV超级电影
@@ -233,7 +233,9 @@ https://28093.live.streamtheworld.com/HAO_963.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="广播频道" radio="true",UFM100.3
 https://22243.live.streamtheworld.com/UFM_1003AAC_SC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/蚌埠交通广播.png" group-title="广播频道" radio="true",蚌埠交通广播
-https://live.ximalaya.com/radio-first-page-app/live/153/64.m3u8
+https://live.ximalaya.com/radio-first-page-app/live/151/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/蚌埠交通广播.png" group-title="广播频道" radio="true",蚌埠经典104.2
+https://live.ximalaya.com/radio-first-page-app/live/153/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽交通广播.png" group-title="广播频道" radio="true",安徽交通广播
 https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr中华之声.png" group-title="广播频道" radio="true",中国之声
