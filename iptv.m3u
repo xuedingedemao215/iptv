@@ -63,11 +63,11 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000049
 
 #卫视频道
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000197
+http://10.49.6.247:8112/AHBKLIVE/00000001000000050000000000000633
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000445
+http://10.49.6.247:8112/AHBKLIVE/00000001000000050000000000000636
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000194
+http://10.49.6.247:8112/AHBKLIVE/00000001000000050000000000000633
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000195
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
