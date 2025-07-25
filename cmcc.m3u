@@ -18,6 +18,8 @@ http://120.210.193.151:8006/120000002003/live/program/_ahbyfh-1_/live/cctv3hd/in
 http://120.210.193.151:8006/120000000058/G_CCTV-4-CQ/index.m3u8
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4k" tvg-logo="" group-title="央视频道",CCTV-4k
+http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-5/C5JSKDXTB.png" group-title="央视频道",CCTV-5
 http://120.210.193.151:8006/120000000058/G_CCTV-5-CQ/index.m3u8
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
@@ -162,7 +164,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongzuody
 http://120.210.193.151:8006/120000000058/GITV-AH-10/index.m3u8
 #EXTINF:-1 tvg-id="超级电影（测试）" tvg-name="超级电影（测试）" group-title="电影频道",超级电影（测试）
 http://120.210.193.151:8006/120000000058/GITV-AH-12/index.m3u8
-#EXTINF:-1 tvg-id="动作电影2" tvg-name="动作电影2" group-title="电影频道",动作电影2
+#EXTINF:-1 tvg-id="银河动作电影" tvg-name="动作电影2" group-title="电影频道",银河动作电影
 http://120.210.193.151:8006/120000000058/GITV-AH-21/index.m3u8
 #EXTINF:-1 tvg-id="精品影视" tvg-name="GITV" group-title="电影频道",精品影视
 http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8
@@ -176,8 +178,6 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/i
 http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
 #EXTINF:-1 tvg-id="蚌埠生活" tvg-name="蚌埠生活" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTbbsh/BBSHYXTB.png" group-title="地方频道",蚌埠生活
 http://120.210.193.151:8006/120000001002/XMTbbsh/1.m3u8
-
-
 
 #数字频道
 #EXTINF:-1 tvg-id="精品记录" tvg-name="GITV" group-title="数字频道",精品记录
