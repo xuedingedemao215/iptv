@@ -194,12 +194,19 @@ http://120.210.193.151:8006/120000000058/GITV-AH-27/index.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-28/index.m3u8
 #EXTINF:-1 tvg-id="旅行记录" tvg-name="旅行记录" group-title="数字频道",旅行记录
 http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8
-#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/XBYXTB0705V1.png" group-title="数字频道",精品纪录
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1 tvg-id="军事评论 tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/newtv军事评论.png" group-title="数字频道",军事评论
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xiqumd/ahyxtbrbjx.png" group-title="数字频道",热播精选
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xiqumd/1.m3u8
+#EXTINF:-1 tvg-id="武林外传" tvg-name="轮播"  group-title="数字频道",武林外传
+http://120.24.172.11:50001/yy/1462938994
+#EXTINF:-1 tvg-id="科幻电影" tvg-name="轮播"  group-title="数字频道",科幻电影
+http://120.24.172.11:50001/yy/1355065896
+#EXTINF:-1 tvg-id="动作电影" tvg-name="轮播"  group-title="数字频道",动作电影
+http://120.24.172.11:50001/yy/1382736809
+#EXTINF:-1 tvg-id="一分钟学道菜" tvg-name="轮播"  group-title="数字频道",一分钟学道菜
+http://120.24.172.11:50001/yy/1382736901
+#EXTINF:-1 tvg-id="阿斗归来了" tvg-name="轮播"  group-title="数字频道",阿斗归来了
+http://120.24.172.11:50001/huya/13303478
+#EXTINF:-1 tvg-id="陈翔六点半" tvg-name="轮播"  group-title="数字频道",陈翔六点半
+http://120.24.172.11:50001/huya/11274154
+
 
 #动画少儿
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-Supercctv14/XBYXTB0705V2.png" group-title="动画少儿",黑莓动画
