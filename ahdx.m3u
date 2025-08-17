@@ -90,6 +90,20 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/szwshd8m/8000000/mn
 
 
 #数字频道
+#EXTINF:-1 group-title="中国电信-安徽-组播",全球大片
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",热门剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",谍战剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",星光影院
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",华语影院
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",看天下精选
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",热门综艺
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",东方影视
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfyshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",欢笑剧场
@@ -112,6 +126,9 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jbtyhd8m/8000000/mn
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",哈哈炫动
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hhxd8m/8000000/mnf.m3u8
-
-
-
+#EXTINF:-1 group-title="中国电信-安徽-组播",金鹰卡通
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",嘉佳卡通
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",动漫秀场
+,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dmxc8m/8000000/mnf.m3u8
