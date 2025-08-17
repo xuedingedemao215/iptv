@@ -9,10 +9,12 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv2hd8m/8000000/m
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-4
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-4K
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-5
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv58m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-5+
-http://61.190.129.195:8686/udp/238.1.78.237:7768
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-6
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv68m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-7
@@ -35,181 +37,81 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctvsehd8m/8000000/
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-17
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CGTN
-http://61.190.129.195:8686/udp/238.1.78.50:6272
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV电视指南HD
-http://61.190.129.195:8686/udp/238.1.79.53:4560
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV央视文化精品HD
-http://61.190.129.195:8686/udp/238.1.79.54:4568
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV女性时尚HD
-http://61.190.129.195:8686/udp/238.1.79.55:4576
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV兵器科技HD
-http://61.190.129.195:8686/udp/238.1.79.56:4584
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV风云足球HD
-http://61.190.129.195:8686/udp/238.1.79.57:4592
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV世界地理HD
-http://61.190.129.195:8686/udp/238.1.79.60:4616
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV怀旧剧场HD
-http://61.190.129.195:8686/udp/238.1.79.61:4624
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV风云剧场HD
-http://61.190.129.195:8686/udp/238.1.79.62:4632
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV第一剧场HD
-http://61.190.129.195:8686/udp/238.1.79.63:4640
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV风云音乐HD
-http://61.190.129.195:8686/udp/238.1.79.64:4648
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV高尔夫网球HD
-http://61.190.129.195:8686/udp/238.1.79.58:4600
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV央视台球HD
-http://61.190.129.195:8686/udp/238.1.79.59:4608
-#EXTINF:-1 group-title="中国电信-安徽-组播",中国教育CETV-1HD
-http://61.190.129.195:8686/udp/238.1.78.158:7136
-#EXTINF:-1 group-title="中国电信-安徽-组播",中国教育CETV-2
-http://61.190.129.195:8686/udp/238.1.78.106:6720
-#EXTINF:-1 group-title="中国电信-安徽-组播",空中课堂CETV-4
-http://61.190.129.195:8686/udp/238.1.78.107:6728
-
-#安徽频道
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽卫视HD
-http://61.190.129.195:8686/udp/238.1.78.150:7072
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽经济生活HD
-http://61.190.129.195:8686/udp/238.1.79.44:4464
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽影视频道HD
-http://61.190.129.195:8686/udp/238.1.79.42:4448
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽公共频道HD
-http://61.190.129.195:8686/udp/238.1.79.43:4456
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽综艺体育HD
-http://61.190.129.195:8686/udp/238.1.79.41:4440
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽农业科教HD
-http://61.190.129.195:8686/udp/238.1.79.40:4432
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽人物频道HD
-http://61.190.129.195:8686/udp/238.1.79.45:4472
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽国际频道
-http://61.190.129.195:8686/udp/238.1.78.61:6360
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽导视频道
-http://61.190.129.195:8686/udp/238.1.79.66:4664
-#EXTINF:-1 group-title="中国电信-安徽-组播",海豚生活HD
-http://61.190.129.195:8686/udp/238.1.79.50:4512
-#EXTINF:-1 group-title="中国电信-安徽-组播",海豚少儿HD
-http://61.190.129.195:8686/udp/238.1.79.32:4368
-#EXTINF:-1 group-title="中国电信-安徽-组播",海豚健康HD
-http://61.190.129.195:8686/udp/238.1.79.33:4376
-#EXTINF:-1 group-title="中国电信-安徽-组播",海豚影视HD
-http://61.190.129.195:8686/udp/238.1.79.34:4384
-#EXTINF:-1 group-title="中国电信-安徽-组播",家家购物
-http://61.190.129.195:8686/udp/238.1.78.32:6184
 
 #卫视频道
 #EXTINF:-1 group-title="中国电信-安徽-组播",北京卫视HD
-http://61.190.129.195:8686/udp/238.1.78.162:7168
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",天津卫视HD
-http://61.190.129.195:8686/udp/238.1.78.20:6088
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/tjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",重庆卫视HD
-http://61.190.129.195:8686/udp/238.1.78.31:6176
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cqws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",东方卫视HD
-http://61.190.129.195:8686/udp/238.1.78.163:7176
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",江苏卫视HD
-http://61.190.129.195:8686/udp/238.1.78.165:7192
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",浙江卫视HD
-http://61.190.129.195:8686/udp/238.1.78.164:7184
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",安徽卫视HD
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ahwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",黑龙江卫视HD
-http://61.190.129.195:8686/udp/238.1.78.159:7144
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hljwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",吉林卫视HD
-http://61.190.129.195:8686/udp/238.1.79.48:4496
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jlwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",辽宁卫视HD
-http://61.190.129.195:8686/udp/238.1.78.21:6096
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/lnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",东南卫视HD
-http://61.190.129.195:8686/udp/238.1.78.22:6104
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",四川卫视HD
-http://61.190.129.195:8686/udp/238.1.78.30:6168
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/scwshd/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",江西卫视HD
-http://61.190.129.195:8686/udp/238.1.78.26:6136
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jxws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",广东卫视HD
-http://61.190.129.195:8686/udp/238.1.78.161:7160
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gdwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",海南卫视HD
-http://61.190.129.195:8686/udp/238.1.79.49:4504
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",湖北卫视HD
-http://61.190.129.195:8686/udp/238.1.78.168:7216
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hubeiws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",湖南卫视HD
-http://61.190.129.195:8686/udp/238.1.78.160:7152
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",贵州卫视HD
-http://61.190.129.195:8686/udp/238.1.78.244:7824
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",河北卫视HD
-http://61.190.129.195:8686/udp/238.1.78.245:7832
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hbwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",河南卫视HD
-http://61.190.129.195:8686/udp/238.1.79.65:4632
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",山东卫视HD
-http://61.190.129.195:8686/udp/238.1.78.169:7224
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sdws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",甘肃卫视HD
-http://61.190.129.195:8686/udp/238.1.79.36:4400
-#EXTINF:-1 group-title="中国电信-安徽-组播",陕西卫视
-http://61.190.129.195:8686/udp/238.1.78.88:6576
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",云南卫视
-http://61.190.129.195:8686/udp/238.1.78.89:6584
-#EXTINF:-1 group-title="中国电信-安徽-组播",山西卫视
-http://61.190.129.195:8686/udp/238.1.78.95:6632
-#EXTINF:-1 group-title="中国电信-安徽-组播",青海卫视
-http://61.190.129.195:8686/udp/238.1.78.102:6688
-#EXTINF:-1 group-title="中国电信-安徽-组播",广西卫视
-http://61.190.129.195:8686/udp/238.1.78.70:6432
-#EXTINF:-1 group-title="中国电信-安徽-组播",内蒙古卫视
-http://61.190.129.195:8686/udp/238.1.78.103:6696
-#EXTINF:-1 group-title="中国电信-安徽-组播",宁夏卫视
-http://61.190.129.195:8686/udp/238.1.78.109:6744
-#EXTINF:-1 group-title="中国电信-安徽-组播",新疆卫视
-http://61.190.129.195:8686/udp/238.1.78.110:6752
-#EXTINF:-1 group-title="中国电信-安徽-组播",西藏卫视
-http://61.190.129.195:8686/udp/238.1.78.101:6680
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ynwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",深圳卫视HD
-http://61.190.129.195:8686/udp/238.1.78.156:7120
-#EXTINF:-1 group-title="中国电信-安徽-组播",兵团卫视
-http://61.190.129.195:8686/udp/238.1.78.104:6704
-#EXTINF:-1 group-title="中国电信-安徽-组播",三沙卫视
-http://61.190.129.195:8686/udp/238.1.78.27:6144
-#EXTINF:-1 group-title="中国电信-安徽-组播",厦门卫视
-http://61.190.129.195:8686/udp/238.1.78.246:7840
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/szwshd8m/8000000/mnf.m3u8
+
 
 #数字频道
 #EXTINF:-1 group-title="中国电信-安徽-组播",东方影视
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfyshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",全纪实HD
+#EXTINF:-1 group-title="中国电信-安徽-组播",欢笑剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",乐游
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qjshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",纪实科技
-http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dajs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",动漫秀场HD
-http://61.190.129.195:8686/udp/238.1.78.154:7104
 #EXTINF:-1 group-title="中国电信-安徽-组播",金鹰纪实HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jyjs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",茶频道HD
-http://61.190.129.195:8686/udp/238.1.79.30:4352
-#EXTINF:-1 group-title="中国电信-安徽-组播",快乐垂钓HD
-http://61.190.129.195:8686/udp/238.1.79.31:4360
-#EXTINF:-1 group-title="中国电信-安徽-组播",生活时尚HD
-http://61.190.129.195:8686/udp/238.1.78.155:7112
-#EXTINF:-1 group-title="中国电信-安徽-组播",体育赛事HD
-http://61.190.129.195:8686/udp/238.1.78.33:6192
-#EXTINF:-1 group-title="中国电信-安徽-组播",中甲联赛HD
-http://61.190.129.195:8686/udp/238.1.79.39:4424
+#EXTINF:-1 group-title="中国电信-安徽-组播",纪实科技
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dajs8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",快乐垂钓
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/klcd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",茶频道
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",五星体育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="中国电信-安徽-组播",劲爆体育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",卡酷少儿
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="中国电信-安徽-组播",哈哈炫动
-http://61.190.129.195:8686/udp/238.1.78.82:6528
-#EXTINF:-1 group-title="中国电信-安徽-组播",金鹰卡通
-http://61.190.129.195:8686/udp/238.1.78.100:6672
-#EXTINF:-1 group-title="中国电信-安徽-组播",山东教育卫视
-http://61.190.129.195:8686/udp/238.1.78.254:7904
-#EXTINF:-1 group-title="中国电信-安徽-组播",财富天下
-http://61.190.129.195:8686/udp/238.1.78.25:6128
-#EXTINF:-1 group-title="中国电信-安徽-组播",东方财*浦东
-http://61.190.129.195:8686/udp/238.1.78.73:6456
-#EXTINF:-1 group-title="中国电信-安徽-组播",都市剧场
-http://61.190.129.195:8686/udp/238.1.78.74:6464
-#EXTINF:-1 group-title="中国电信-安徽-组播",金色频道
-http://61.190.129.195:8686/udp/238.1.78.76:6480
-#EXTINF:-1 group-title="中国电信-安徽-组播",游戏风云
-http://61.190.129.195:8686/udp/238.1.78.81:6520
-#EXTINF:-1 group-title="中国电信-安徽-组播",法治天地
-http://61.190.129.195:8686/udp/238.1.78.84:6544
-#EXTINF:-1 group-title="中国电信-安徽-组播",七彩戏剧
-http://61.190.129.195:8686/udp/238.1.78.85:6552
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hhxd8m/8000000/mnf.m3u8
+
 
 
