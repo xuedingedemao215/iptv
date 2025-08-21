@@ -108,17 +108,23 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000077
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000079
 
 #数字频道
-#EXTINF:-1 tvg-id="直播中国" tvg-name="轮播"  group-title="数字频道",武林外传
-http://120.24.172.11:50001/yy/1462938994
-#EXTINF:-1 tvg-id="直播中国" tvg-name="轮播"  group-title="数字频道",科幻电影
-http://120.24.172.11:50001/yy/1355065896
-#EXTINF:-1 tvg-id="直播中国" tvg-name="轮播"  group-title="数字频道",动作电影
-http://120.24.172.11:50001/yy/1382736809
-#EXTINF:-1 tvg-id="直播中国" tvg-name="轮播"  group-title="数字频道",一分钟学道菜
-http://120.24.172.11:50001/yy/1382736901
-#EXTINF:-1 tvg-id="直播中国" tvg-name="轮播"  group-title="数字频道",阿斗归来了
+#EXTINF:-1 tvg-id="虎牙影院" tvg-name="轮播"  group-title="数字频道",虎牙影院
+http://120.24.172.11:50001/huya/11601968
+#EXTINF:-1 tvg-id="高分电影" tvg-name="轮播"  group-title="数字频道",高分电影
+http://120.24.172.11:50001/yy/30789731
+#EXTINF:-1 tvg-id="热门电影" tvg-name="轮播"  group-title="数字频道",热门电影
+http://120.24.172.11:50001/yy/880261
+#EXTINF:-1 tvg-id="战争电影" tvg-name="轮播"  group-title="数字频道",战争电影
+http://120.24.172.11:50001/yy/21059618
+#EXTINF:-1 tvg-id="阿斗归来了" tvg-name="轮播"  group-title="数字频道",阿斗归来了
 http://120.24.172.11:50001/huya/13303478
-#EXTINF:-1 tvg-id="直播中国" tvg-name="轮播"  group-title="数字频道",陈翔六点半
+#EXTINF:-1 tvg-id="电影最top" tvg-name="轮播"  group-title="数字频道",电影最top
+http://120.24.172.11:50001/huya/11774959
+#EXTINF:-1 tvg-id="止戈电影" tvg-name="轮播"  group-title="数字频道",止戈电影
+http://120.24.172.11:50001/huya/19863777
+#EXTINF:-1 tvg-id="我们都爱笑" tvg-name="轮播"  group-title="数字频道",我们都爱笑
+http://120.24.172.11:50001/huya/11352882
+#EXTINF:-1 tvg-id="陈翔六点半" tvg-name="轮播"  group-title="数字频道",陈翔六点半
 http://120.24.172.11:50001/huya/11274154
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓"  group-title="数字频道",快乐垂钓
 http://10.255.126.3:8006/AHBKLIVE/4d0ec3c7a7cf41458ce3c7e241f7ed7a
