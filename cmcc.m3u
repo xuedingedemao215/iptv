@@ -194,27 +194,44 @@ http://120.210.193.151:8006/120000000058/GITV-AH-27/index.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-28/index.m3u8
 #EXTINF:-1 tvg-id="旅行记录" tvg-name="旅行记录" group-title="数字频道",旅行记录
 http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8
-#EXTINF:-1 tvg-id="虎牙影院" tvg-name="轮播"  group-title="数字频道",虎牙影院
-http://120.24.172.11:50001/huya/11601968
+#EXTINF:-1 tvg-id="电影院" tvg-name="轮播"  group-title="数字频道",电影院
+http://120.24.172.11:50001/huya/20969127
+#EXTINF:-1 tvg-id="华语影院" tvg-name="轮播"  group-title="数字频道",华语影院
+http://120.24.172.11:50001/huya/23352525
+#EXTINF:-1 tvg-id="动作影院" tvg-name="轮播"  group-title="数字频道",动作影院
+http://120.24.172.11:50001/huya/29465873
+#EXTINF:-1 tvg-id="科幻影院" tvg-name="轮播"  group-title="数字频道",科幻影院
+http://120.24.172.11:50001/huya/29982648
+#EXTINF:-1 tvg-id="幻海航行" tvg-name="轮播"  group-title="数字频道",幻海航行
+http://120.24.172.11:50001/huya/17105786
+#EXTINF:-1 tvg-id="战争影院" tvg-name="轮播"  group-title="数字频道",战争影院
+http://120.24.172.11:50001/huya/21059574
+#EXTINF:-1 tvg-id="鬼吹灯" tvg-name="轮播"  group-title="数字频道",鬼吹灯
+http://120.24.172.11:50001/huya/11352883
+#EXTINF:-1 tvg-id="韩国影院" tvg-name="轮播"  group-title="数字频道",韩国影院
+http://120.24.172.11:50001/huya/11352884
+#EXTINF:-1 tvg-id="脱口秀大会" tvg-name="轮播"  group-title="数字频道",脱口秀大会
+http://120.24.172.11:50001/huya/30080243
+#EXTINF:-1 tvg-id="奇幻电影放映厅" tvg-name="轮播"  group-title="数字频道",奇幻电影放映厅
+http://120.24.172.11:50001/huya/26355847
 #EXTINF:-1 tvg-id="白噪音" tvg-name="轮播"  group-title="数字频道",白噪音
 http://120.24.172.11:50001/huya/25567640
 #EXTINF:-1 tvg-id="野外生存" tvg-name="轮播"  group-title="数字频道",野外生存
 http://120.24.172.11:50001/huya/29886293
 #EXTINF:-1 tvg-id="荒野求生" tvg-name="轮播"  group-title="数字频道",荒野求生
-http://120.24.172.11:50001/yy/29468771
+http://120.24.172.11:50001/huya/30080237
 #EXTINF:-1 tvg-id="阿斗归来了" tvg-name="轮播"  group-title="数字频道",阿斗归来了
 http://120.24.172.11:50001/huya/13303478
 #EXTINF:-1 tvg-id="电影最top" tvg-name="轮播"  group-title="数字频道",电影最top
 http://120.24.172.11:50001/huya/11774959
-#EXTINF:-1 tvg-id="止戈电影" tvg-name="轮播"  group-title="数字频道",止戈电影
-http://120.24.172.11:50001/huya/19863777
+#EXTINF:-1 tvg-id="扁豆看电影" tvg-name="轮播"  group-title="数字频道",扁豆看电影
+http://120.24.172.11:50001/huya/21059623
 #EXTINF:-1 tvg-id="美利坚city walk" tvg-name="轮播"  group-title="数字频道",美利坚city walk
 http://120.24.172.11:50001/huya/29886285
 #EXTINF:-1 tvg-id="欧洲city walk" tvg-name="轮播"  group-title="数字频道",欧洲city walk
 http://120.24.172.11:50001/huya/29886286
-
-#EXTINF:-1 tvg-id="陈翔六点半" tvg-name="轮播"  group-title="数字频道",陈翔六点半
-http://120.24.172.11:50001/huya/11274154
+#EXTINF:-1 tvg-id="悬疑犯罪美剧" tvg-name="轮播"  group-title="数字频道",悬疑犯罪美剧
+http://120.24.172.11:50001/huya/20985825
 
 
 #动画少儿
