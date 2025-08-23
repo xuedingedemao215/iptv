@@ -196,10 +196,10 @@ http://120.210.193.151:8006/120000000058/GITV-AH-28/index.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8
 #EXTINF:-1 tvg-id="虎牙影院" tvg-name="轮播"  group-title="数字频道",虎牙影院
 http://120.24.172.11:50001/huya/11601968
-#EXTINF:-1 tvg-id="高分电影" tvg-name="轮播"  group-title="数字频道",高分电影
-http://120.24.172.11:50001/yy/30789731
-#EXTINF:-1 tvg-id="热门电影" tvg-name="轮播"  group-title="数字频道",热门电影
-http://120.24.172.11:50001/yy/880261
+#EXTINF:-1 tvg-id="白噪音" tvg-name="轮播"  group-title="数字频道",白噪音
+http://120.24.172.11:50001/huya/25567640
+#EXTINF:-1 tvg-id="野外生存" tvg-name="轮播"  group-title="数字频道",野外生存
+http://120.24.172.11:50001/huya/29886293
 #EXTINF:-1 tvg-id="战争电影" tvg-name="轮播"  group-title="数字频道",战争电影
 http://120.24.172.11:50001/yy/21059618
 #EXTINF:-1 tvg-id="阿斗归来了" tvg-name="轮播"  group-title="数字频道",阿斗归来了
@@ -212,6 +212,7 @@ http://120.24.172.11:50001/huya/19863777
 http://120.24.172.11:50001/huya/29886285
 #EXTINF:-1 tvg-id="欧洲city walk" tvg-name="轮播"  group-title="数字频道",欧洲city walk
 http://120.24.172.11:50001/huya/29886286
+
 #EXTINF:-1 tvg-id="陈翔六点半" tvg-name="轮播"  group-title="数字频道",陈翔六点半
 http://120.24.172.11:50001/huya/11274154
 
