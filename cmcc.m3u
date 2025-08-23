@@ -210,6 +210,8 @@ http://120.24.172.11:50001/huya/11774959
 http://120.24.172.11:50001/huya/19863777
 #EXTINF:-1 tvg-id="美利坚city walk" tvg-name="轮播"  group-title="数字频道",美利坚city walk
 http://120.24.172.11:50001/huya/29886285
+#EXTINF:-1 tvg-id="欧洲city walk" tvg-name="轮播"  group-title="数字频道",欧洲city walk
+http://120.24.172.11:50001/huya/29886286
 #EXTINF:-1 tvg-id="陈翔六点半" tvg-name="轮播"  group-title="数字频道",陈翔六点半
 http://120.24.172.11:50001/huya/11274154
 
