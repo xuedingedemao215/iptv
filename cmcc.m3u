@@ -124,6 +124,10 @@ http://120.210.193.151:8006/120000000058/GITV-AH-12/index.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-21/index.m3u8
 #EXTINF:-1 tvg-id="精品影视" tvg-name="GITV" group-title="电影频道",精品影视
 http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="GITV" group-title="电影频道",龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="GITV" group-title="电影频道",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="地方频道",东方财经
@@ -160,8 +164,6 @@ http://120.24.172.11:50001/huya/29982648
 http://120.24.172.11:50001/huya/17105786
 #EXTINF:-1 tvg-id="战争影院" tvg-name="轮播"  group-title="数字频道",战争影院
 http://120.24.172.11:50001/huya/21059574
-#EXTINF:-1 tvg-id="鬼吹灯" tvg-name="轮播"  group-title="数字频道",鬼吹灯
-http://120.24.172.11:50001/huya/11352883
 #EXTINF:-1 tvg-id="韩国影院" tvg-name="轮播"  group-title="数字频道",韩国影院
 http://120.24.172.11:50001/huya/11352884
 #EXTINF:-1 tvg-id="脱口秀大会" tvg-name="轮播"  group-title="数字频道",脱口秀大会
