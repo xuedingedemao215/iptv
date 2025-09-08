@@ -1,136 +1,136 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg" 
 
 #央视频道
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-1
+#EXTINF:-1 group-title="央视频道",CCTV-1
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-2
+#EXTINF:-1 group-title="央视频道",CCTV-2
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-3
+#EXTINF:-1 group-title="央视频道",CCTV-3
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv38m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-4
+#EXTINF:-1 group-title="央视频道",CCTV-4
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-4K
+#EXTINF:-1 group-title="央视频道",CCTV-4K
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-5
+#EXTINF:-1 group-title="央视频道",CCTV-5
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv58m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-5+
+#EXTINF:-1 group-title="央视频道",CCTV-5+
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-6
+#EXTINF:-1 group-title="央视频道",CCTV-6
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv68m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-7
+#EXTINF:-1 group-title="央视频道",CCTV-7
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-8
+#EXTINF:-1 group-title="央视频道",CCTV-8
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-9
+#EXTINF:-1 group-title="央视频道",CCTV-9
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-10
+#EXTINF:-1 group-title="央视频道",CCTV-10
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-11
+#EXTINF:-1 group-title="央视频道",CCTV-11
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-12
+#EXTINF:-1 group-title="央视频道",CCTV-12
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-13
+#EXTINF:-1 group-title="央视频道",CCTV-13
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-14
+#EXTINF:-1 group-title="央视频道",CCTV-14
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-15
+#EXTINF:-1 group-title="央视频道",CCTV-15
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",CCTV-17
+#EXTINF:-1 group-title="央视频道",CCTV-17
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 #卫视频道
-#EXTINF:-1 group-title="中国电信-安徽-组播",北京卫视HD
+#EXTINF:-1 group-title="卫视频道",北京卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",天津卫视HD
+#EXTINF:-1 group-title="卫视频道",天津卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/tjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",重庆卫视HD
+#EXTINF:-1 group-title="卫视频道",重庆卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cqws8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",东方卫视HD
+#EXTINF:-1 group-title="卫视频道",东方卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",江苏卫视HD
+#EXTINF:-1 group-title="卫视频道",江苏卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jswshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",浙江卫视HD
+#EXTINF:-1 group-title="卫视频道",浙江卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",安徽卫视HD
+#EXTINF:-1 group-title="卫视频道",安徽卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ahwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",黑龙江卫视HD
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hljwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",吉林卫视HD
+#EXTINF:-1 group-title="卫视频道",吉林卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jlwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",辽宁卫视HD
+#EXTINF:-1 group-title="卫视频道",辽宁卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/lnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",东南卫视HD
+#EXTINF:-1 group-title="卫视频道",东南卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",四川卫视HD
+#EXTINF:-1 group-title="卫视频道",四川卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/scwshd/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",江西卫视HD
+#EXTINF:-1 group-title="卫视频道",江西卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jxws8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",广东卫视HD
+#EXTINF:-1 group-title="卫视频道",广东卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gdwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",海南卫视HD
+#EXTINF:-1 group-title="卫视频道",海南卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",湖北卫视HD
+#EXTINF:-1 group-title="卫视频道",湖北卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hubeiws8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",湖南卫视HD
+#EXTINF:-1 group-title="卫视频道",湖南卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",贵州卫视HD
+#EXTINF:-1 group-title="卫视频道",贵州卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gzwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",河北卫视HD
+#EXTINF:-1 group-title="卫视频道",河北卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hbwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",河南卫视HD
+#EXTINF:-1 group-title="卫视频道",河南卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",山东卫视HD
+#EXTINF:-1 group-title="卫视频道",山东卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sdws8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",甘肃卫视HD
+#EXTINF:-1 group-title="卫视频道",甘肃卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gswshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",云南卫视
+#EXTINF:-1 group-title="卫视频道",云南卫视
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ynwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",深圳卫视HD
+#EXTINF:-1 group-title="卫视频道",深圳卫视HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/szwshd8m/8000000/mnf.m3u8
 
 
 #数字频道
-#EXTINF:-1 group-title="中国电信-安徽-组播",全球大片
+#EXTINF:-1 group-title="电影频道",全球大片
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",热门剧场
+#EXTINF:-1 group-title="数字频道",热门剧场
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",谍战剧场
+#EXTINF:-1 group-title="数字频道",谍战剧场
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dzjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",星光影院
+#EXTINF:-1 group-title="电影频道",星光影院
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",华语影院
+#EXTINF:-1 group-title="电影频道",华语影院
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",看天下精选
+#EXTINF:-1 group-title="数字频道",看天下精选
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ktxjx8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",热门综艺
+#EXTINF:-1 group-title="数字频道",热门综艺
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmzy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",东方影视
+#EXTINF:-1 group-title="电影频道",东方影视
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfyshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",欢笑剧场
+#EXTINF:-1 group-title="数字频道",欢笑剧场
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",乐游
+#EXTINF:-1 group-title="数字频道",乐游
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qjshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",金鹰纪实HD
+#EXTINF:-1 group-title="数字频道",金鹰纪实HD
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jyjs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",纪实科技
+#EXTINF:-1 group-title="数字频道",纪实科技
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dajs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",快乐垂钓
+#EXTINF:-1 group-title="数字频道",快乐垂钓
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/klcd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",茶频道
+#EXTINF:-1 group-title="数字频道",茶频道
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",五星体育
+#EXTINF:-1 group-title="数字频道",五星体育
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",劲爆体育
+#EXTINF:-1 group-title="数字频道",劲爆体育
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",卡酷少儿
+#EXTINF:-1 group-title="动漫卡通",卡酷少儿
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/kkse8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",哈哈炫动
+#EXTINF:-1 group-title="动漫卡通",哈哈炫动
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hhxd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",金鹰卡通
+#EXTINF:-1 group-title="动漫卡通",金鹰卡通
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jykt/1300000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",嘉佳卡通
+#EXTINF:-1 group-title="动漫卡通",嘉佳卡通
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jjkt/1300000/mnf.m3u8
-#EXTINF:-1 group-title="中国电信-安徽-组播",动漫秀场
+#EXTINF:-1 group-title="动漫卡通",动漫秀场
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dmxc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="GITV" group-title="电影频道",龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
