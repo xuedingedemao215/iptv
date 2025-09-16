@@ -8,7 +8,7 @@ http://120.210.193.151:8006/120000001002/XMTcctv-2hd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-3
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4
-http://120.210.193.151:8006/120000001002/XMTcctv-4/index.m3u8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="" group-title="央视频道",CCTV-4k
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-5/C5JSKDXTB.png" group-title="央视频道",CCTV-5
@@ -26,15 +26,15 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10hd/AHXBYXTBCCTV-10.png" group-title="央视频道",CCTV-10
 http://120.210.193.151:8006/120000001002/XMTcctv-10hd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-11hd/AHXBYXTBCCTV-11.png" group-title="央视频道",CCTV-11
-http://120.210.193.151:8006/120000001002/XMTcctv-11/index.m3u8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-12hd/AHXBYXTBCCTV-12.png" group-title="央视频道",CCTV-12
 http://120.210.193.151:8006/120000001002/XMTcctv-12hd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-13hd/AHXBYXTBCCTV-13.png" group-title="央视频道",CCTV-13
-http://120.210.193.151:8006/120000001002/XMTcctv-13/index.m3u8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-14hd/AHXBYXTBCCTV-14.png" group-title="央视频道",CCTV-14
 http://120.210.193.151:8006/120000001002/XMTcctv-14hd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-15hd/AHXBYXTBCCTV-15.png" group-title="央视频道",CCTV-15
-http://120.210.193.151:8006/120000001002/XMTcctv-15/index.m3u8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-cctv16/CCTV16TYYXTB.png" group-title="央视频道",CCTV-16
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTcctv-17hd/XB.png" group-title="央视频道",CCTV-17
@@ -115,9 +115,9 @@ http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 #EXTINF:-1 tvg-id="精彩影院" tvg-name="精彩影院" group-title="电影频道",精彩影院
 http://120.210.193.151:8006/120000000058/GITV-AH-10/index.m3u8
-#EXTINF:-1 tvg-id="超级电影（测试）" tvg-name="超级电影（测试）" group-title="电影频道",超级电影（测试）
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" group-title="电影频道",超级电影
 http://120.210.193.151:8006/120000000058/GITV-AH-12/index.m3u8
-#EXTINF:-1 tvg-id="银河动作电影" tvg-name="动作电影2" group-title="电影频道",银河动作电影
+#EXTINF:-1 tvg-id="银河动作电影" tvg-name="动作电影" group-title="电影频道",银河动作电影
 http://120.210.193.151:8006/120000000058/GITV-AH-21/index.m3u8
 #EXTINF:-1 tvg-id="精品影视" tvg-name="GITV" group-title="电影频道",精品影视
 http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8
