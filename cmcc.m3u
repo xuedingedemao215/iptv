@@ -5,7 +5,7 @@
 http://120.210.193.151:8006/120000001002/XMTcctv-1hd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2
 http://120.210.193.151:8006/120000001002/XMTcctv-2hd/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
@@ -81,29 +81,29 @@ http://120.210.193.151:8006/120000001002/XMTcqwshd/index.m3u8
 #央视数字
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南"  group-title="央视数字",电视指南
 http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
-#EXTINF:-1 tvg-id="6559" tvg-name="CCTV风云剧场" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTfyjc/FYJCYXTB.png" group-title="央视数字",风云剧场
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTfyjc/FYJCYXTB.png" group-title="央视数字",风云剧场
 http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
-#EXTINF:-1 tvg-id="6557" tvg-name="CCTV风云音乐" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTfyyy/FYYYYXTB.png" group-title="央视数字",风云音乐
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTfyyy/FYYYYXTB.png" group-title="央视数字",风云音乐
 http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
-#EXTINF:-1 tvg-id="6558" tvg-name="CCTV第一剧场" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTdyjc/DYJCYXTB.png" group-title="央视数字",第一剧场
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTdyjc/DYJCYXTB.png" group-title="央视数字",第一剧场
 http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="CCTV女性时尚" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTnxss/NXSSYXTB.png" group-title="央视数字",女性时尚
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTnxss/NXSSYXTB.png" group-title="央视数字",女性时尚
 http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="CCTV风云足球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTfyzq/FYZQYXTB.png" group-title="央视数字",风云足球
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTfyzq/FYZQYXTB.png" group-title="央视数字",风云足球
 http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="CCTV兵器时代" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTbqsd/BQSDYXTB.png" group-title="央视数字",兵器时代
+#EXTINF:-1 tvg-id="CCTV兵器时代" tvg-name="CCTV兵器时代" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTbqsd/BQSDYXTB.png" group-title="央视数字",兵器时代
 http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="CCTV怀旧剧场" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMThjjc/HJJCYXTB.png" group-title="央视数字",怀旧剧场
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMThjjc/HJJCYXTB.png" group-title="央视数字",怀旧剧场
 http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
-#EXTINF:-1 tvg-id="6560" tvg-name="CCTV世界地理" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTsjdl/SJDLYXTB.png" group-title="央视数字",世界地理
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTsjdl/SJDLYXTB.png" group-title="央视数字",世界地理
 http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
-#EXTINF:-1 tvg-id="6569" tvg-name="CCTV央视精品" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTysjp/YSJPYXTB.png" group-title="央视数字",文化精品
+#EXTINF:-1 tvg-id="CCTV央视精品" tvg-name="CCTV央视精品" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTysjp/YSJPYXTB.png" group-title="央视数字",文化精品
 http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
-#EXTINF:-1 tvg-id="6584" tvg-name="CCTV央视台球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTystq/YSTQYXTB.png" group-title="央视数字",央视台球
+#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTystq/YSTQYXTB.png" group-title="央视数字",央视台球
 http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
-#EXTINF:-1 tvg-id="6568" tvg-name="CCTV央视高尔夫网球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTgolf/GEFYXTB.png" group-title="央视数字",央视高网
+#EXTINF:-1 tvg-id="CCTV央视高尔夫网球" tvg-name="CCTV央视高尔夫网球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTgolf/GEFYXTB.png" group-title="央视数字",央视高网
 http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
-#EXTINF:-1 tvg-id="6568" tvg-name="都市剧场" group-title="央视数字",都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="央视数字",都市剧场
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
 
 #电影频道
