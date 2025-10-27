@@ -16,8 +16,6 @@ http://10.255.127.35:6060/gitv_live/G_CCTV-4-CQ/index.m3u8?Playtype=1&gMac=00&pa
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000481
 http://10.255.127.35:6060/gitv_live/G_CCTV-5-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153
 http://10.255.127.35:6060/gitv_live/G_CCTV-5PLUS-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://10.255.126.3:8006/AHBKLIVE/11111120220816000000000000000005
@@ -55,6 +53,10 @@ http://10.255.127.35:6060/gitv_live/G_CCTV-16-CQ/index.m3u8?Playtype=1&gMac=00&p
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000580
 http://10.255.127.35:6060/gitv_live/G_CCTV-17-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1"  group-title="央视频道",CETV-1
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000463
 
 #央视精品
 #EXTINF:-1 tvg-id="6559" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视精品",风云剧场
@@ -141,8 +143,6 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000079
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000115
 
 #数字频道
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1"  group-title="数字频道",CETV-1
-http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000463
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓"  group-title="数字频道",快乐垂钓
 http://10.255.126.3:8006/AHBKLIVE/4d0ec3c7a7cf41458ce3c7e241f7ed7a
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿"  group-title="数字频道",卡酷少儿
