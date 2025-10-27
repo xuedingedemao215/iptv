@@ -97,8 +97,8 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000266
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000039
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000470
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000652
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000470
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000198
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000648
@@ -125,14 +125,24 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000603
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000619
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000643
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000642
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000641
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000639
 
 #地方频道
 #EXTINF:-1 tvg-id="蚌埠公共" tvg-name="蚌埠公共" group-title="地方频道",蚌埠公共
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000077
 #EXTINF:-1 tvg-id="蚌埠新闻" tvg-name="蚌埠新闻" group-title="地方频道",蚌埠新闻
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000079
+#EXTINF:-1 tvg-id="黄山文旅" tvg-name="黄山文旅" group-title="地方频道",黄山文旅
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000115
 
 #数字频道
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1"  group-title="数字频道",CETV-1
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000463
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓"  group-title="数字频道",快乐垂钓
 http://10.255.126.3:8006/AHBKLIVE/4d0ec3c7a7cf41458ce3c7e241f7ed7a
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿"  group-title="数字频道",卡酷少儿
