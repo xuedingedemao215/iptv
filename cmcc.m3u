@@ -145,11 +145,11 @@ http://120.210.193.151:8006/120000000058/GITV-AH-10/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="超级电影" group-title="电影频道",NewTV超级电影
 http://120.210.193.151:8006/120000000058/GITV-AH-12/index.m3u8
 #EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" group-title="电影频道",NewTV动作电影
-http://120.210.193.151:8006/120000000058/NewTV-AH-20/index.m3u8
+http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8
 #EXTINF:-1 tvg-id="银河动作电影" tvg-name="动作电影" group-title="电影频道",银河动作电影
 http://120.210.193.151:8006/120000000058/GITV-AH-21/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="电影频道",NewTV精品大剧
-http://120.210.193.151:8006/120000000058/NewTV-AH-13/index.m3u8
+http://120.210.193.151:8006/120000000058/GITV-AH-13/index.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="地方频道",东方财经
@@ -183,7 +183,7 @@ http://120.210.193.151:8006/120000001002/XMTcha/1.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="数字频道",都市剧场
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="数字频道",NewTV金牌综艺
-http://120.210.193.151:8006/120000000058/NewTV-AH-19/index.m3u8
+http://120.210.193.151:8006/120000000058/GITV-AH-19/index.m3u8
 
 
 #动画少儿
