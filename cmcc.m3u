@@ -150,6 +150,8 @@ http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-21/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="电影频道",NewTV精品大剧
 http://120.210.193.151:8006/120000000058/GITV-AH-13/index.m3u8
+#EXTINF:-1 tvg-name="FOX Action Movies(maintenance)" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/22/large/20170222150415820401_51.png" group-title="电影频道",[SD]movies action (1080p)
+https://stream1.freetv.fun/4f8f70e25b8b6fa96b5edb15f3b56b895f977016ba5dad2d77c2c8e20a840fd4.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="地方频道",东方财经
@@ -207,6 +209,8 @@ http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" group-title="国际频道",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="国际频道",[BD]cna
+https://stream1.freetv.fun/d8b66990da8f29a9eae8fef9add9cb28392dc19ba4c56ed61149c88dda834bc9.m3u8
 
 #广播频道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/yes933.png" group-title="广播频道" radio="true",yes933
