@@ -150,8 +150,6 @@ http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-21/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="电影频道",NewTV精品大剧
 http://120.210.193.151:8006/120000000058/GITV-AH-13/index.m3u8
-#EXTINF:-1 tvg-name="FOX Action Movies(maintenance)" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/22/large/20170222150415820401_51.png" group-title="电影频道",[SD]movies action (1080p)
-https://stream1.freetv.fun/4f8f70e25b8b6fa96b5edb15f3b56b895f977016ba5dad2d77c2c8e20a840fd4.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="地方频道",东方财经
