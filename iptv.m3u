@@ -214,7 +214,12 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000448
 http://10.255.127.35:6060/gitv_live/G_JIAJIA/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 
 #国际频道
-#EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://tb.zbds.top/logo/半岛新闻.png" group-title="国际频道",Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" group-title="国际频道",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文.png" group-title="卫视频道",凤凰中文
+https://cdn6.163189.xyz/163189/fhzw
+http://ccav.zone.id/php/fh.php?id=2
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+https://cdn6.163189.xyz/163189/fhzx
+http://ccav.zone.id/php/fh.php?id=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="卫视频道",凤凰香港
+https://cdn6.163189.xyz/163189/fhhk
+http://ccav.zone.id/php/fh.php?id=3
