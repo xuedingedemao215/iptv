@@ -262,11 +262,71 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/i
 http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315.m3u8
 
 
-#国际频道
-#EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" group-title="国际频道",半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" group-title="国际频道",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#咪咕
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" group-title="咪咕",咪咕1
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕2" tvg-name="咪咕2" group-title="咪咕",咪咕2
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕3" tvg-name="咪咕3" group-title="咪咕",咪咕3
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕4" tvg-name="咪咕4" group-title="咪咕",咪咕4
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕5" tvg-name="咪咕5" group-title="咪咕",咪咕5
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕6" tvg-name="咪咕6" group-title="咪咕",咪咕6
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕7" tvg-name="咪咕7" group-title="咪咕",咪咕7
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕8" tvg-name="咪咕8" group-title="咪咕",咪咕8
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕9" tvg-name="咪咕9" group-title="咪咕",咪咕9
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕10" tvg-name="咪咕10" group-title="咪咕",咪咕10
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕11" tvg-name="咪咕11" group-title="咪咕",咪咕11
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕12" tvg-name="咪咕12" group-title="咪咕",咪咕12
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕13" tvg-name="咪咕13" group-title="咪咕",咪咕13
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕14" tvg-name="咪咕14" group-title="咪咕",咪咕14
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕15" tvg-name="咪咕15" group-title="咪咕",咪咕15
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕16" tvg-name="咪咕16" group-title="咪咕",咪咕16
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕17" tvg-name="咪咕17" group-title="咪咕",咪咕17
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕18" tvg-name="咪咕18" group-title="咪咕",咪咕18
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕19" tvg-name="咪咕19" group-title="咪咕",咪咕19
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕20" tvg-name="咪咕20" group-title="咪咕",咪咕20
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕21" tvg-name="咪咕21" group-title="咪咕",咪咕21
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕22" tvg-name="咪咕22" group-title="咪咕",咪咕22
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕23" tvg-name="咪咕23" group-title="咪咕",咪咕23
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕24" tvg-name="咪咕24" group-title="咪咕",咪咕24
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕25" tvg-name="咪咕25" group-title="咪咕",咪咕25
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕26" tvg-name="咪咕26" group-title="咪咕",咪咕26
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕27" tvg-name="咪咕27" group-title="咪咕",咪咕27
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕28" tvg-name="咪咕28" group-title="咪咕",咪咕28
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕" tvg-name="咪咕29" group-title="咪咕",咪咕29
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕30" tvg-name="咪咕30" group-title="咪咕",咪咕30
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕4K-1" tvg-name="咪咕4K-1" group-title="咪咕",咪咕4K-1
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=abc
+#EXTINF:-1 tvg-id="咪咕4K-2" tvg-name="咪咕4K-2" group-title="咪咕",咪咕4K-2
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=abc
 
 
 #广播频道
