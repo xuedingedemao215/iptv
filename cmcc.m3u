@@ -65,6 +65,15 @@ http://120.210.193.151:8006/120000000058/G_CCTV-5PLUS-CQ/index.m3u8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
 
 #卫视频道
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文.png" group-title="卫视频道",凤凰中文
+https://cdn6.163189.xyz/163189/fhzw
+http://ccav.zone.id/php/fh.php?id=2
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+https://cdn6.163189.xyz/163189/fhzx
+http://ccav.zone.id/php/fh.php?id=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="卫视频道",凤凰香港
+https://cdn6.163189.xyz/163189/fhhk
+http://ccav.zone.id/php/fh.php?id=3
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://tb.zbds.top/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://120.210.193.151:8006/120000001002/XMTahwshd/index.m3u8
 http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
