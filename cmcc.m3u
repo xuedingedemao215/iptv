@@ -1,6 +1,5 @@
-#EXTM3U x-tvg-url="https://epg.136605.xyz/3days.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
-#央视频道
+#央视频道,#genre#,DE=1#PB=playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}#HOST=null#PBO=0#IJKAD=-1#TSO=0;
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道",CCTV-1
 http://120.210.193.151:8006/120000001002/XMTcctv-1hd/index.m3u8
 http://120.210.193.151:8006/120000000058/G_CCTV-1-CQ/index.m3u8
@@ -65,7 +64,7 @@ http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 http://120.210.193.151:8006/120000000058/G_CCTV-5PLUS-CQ/index.m3u8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
 
-#卫视频道
+#卫视频道,#genre#,DE=1#PB=playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}#HOST=null#PBO=0#IJKAD=-1#TSO=0;
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://tb.zbds.top/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://120.210.193.151:8006/120000001002/XMTahwshd/index.m3u8
 http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
@@ -173,7 +172,7 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/btwssd4m/i
 http://120.210.193.151:8006/120000000058/G_BINGTUAN/index.m3u8
 
 
-#央视数字
+#央视数字,#genre#,DE=1#PB=playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}#HOST=null#PBO=0#IJKAD=-1#TSO=0;
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南"  group-title="央视数字",电视指南
 http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://tb.zbds.top/logo/CCTV风云剧场.png" group-title="央视数字",风云剧场
@@ -217,7 +216,7 @@ http://120.210.193.151:8006/120000000058/GITV-AH-21/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="电影频道",NewTV精品大剧
 http://120.210.193.151:8006/120000000058/GITV-AH-13/index.m3u8
 
-#地方频道
+#地方频道,#genre#,DE=1#PB=playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}#HOST=null#PBO=0#IJKAD=-1#TSO=0;
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="地方频道",东方财经
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8
 #EXTINF:-1 tvg-id="蚌埠新闻" tvg-name="蚌埠新闻" tvg-logo="" group-title="地方频道",蚌埠新闻
@@ -227,7 +226,7 @@ http://120.210.193.151:8006/120000001002/XMTbbsh/1.m3u8
 #EXTINF:-1 tvg-id="宣城新闻" tvg-name="宣城新闻"  group-title="地方频道",宣城新闻
 http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
 
-#数字频道
+#数字频道,#genre#,DE=1#PB=playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}#HOST=null#PBO=0#IJKAD=-1#TSO=0;
 #EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录" group-title="数字频道",NewTV精品纪录
 http://120.210.193.151:8006/120000000058/GITV-AH-8/index.m3u8
 #EXTINF:-1 tvg-id="NewTV历史解密" tvg-name="NewTV历史解密" group-title="数字频道",NewTV历史解密
@@ -251,7 +250,7 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/ind
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="数字频道",NewTV金牌综艺
 http://120.210.193.151:8006/120000000058/GITV-AH-19/index.m3u8
 
-#动画少儿
+#动画少儿,#genre#,DE=1#PB=playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}#HOST=null#PBO=0#IJKAD=-1#TSO=0;
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="动画少儿",卡酷少儿
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="动画少儿",金鹰卡通
